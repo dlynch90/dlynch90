@@ -1,38 +1,39 @@
-# Daniel Lynch – AI/ML Innovator & Entrepreneur
+# Daniel Lynch — AI/ML Innovator & Entrepreneur
 
-Welcome to this GitHub profile! This repository provides an overview of Daniel Lynch’s diverse roles across artificial intelligence, engineering, holistic health and digital innovation.
+Welcome to my GitHub profile! I build AI-powered applications, healthcare technology, and cloud infrastructure — all from [@dlynch90](https://github.com/dlynch90).
 
 ## About
 
-Daniel Lynch leads multiple ventures that harness artificial intelligence and machine learning to drive business growth and improve lives. As an enterprise SaaS founder and consultant, Daniel architects AI‑powered products and advises organizations on digital transformation. Beyond technology, there is ownership of a medical billing company and work as an integrative medicine consultant, blending holistic health principles with data‑driven insights. A background in structural engineering and digital marketing informs a unique blend of creativity and technical rigor.
+Engineer. Entrepreneur. Free Spirit. I architect AI-powered SaaS products, advise organizations on digital transformation, and build integrative healthcare tech. My background spans full-stack development, DevOps, LLM orchestration, and holistic medicine consulting.
 
 ## Expertise
 
-- Artificial Intelligence & Machine Learning (model development, MLOps)
-- Enterprise SaaS design and architecture
+- Artificial Intelligence & Machine Learning (LLMs, MLOps, MCP servers)
+- Full-stack development (TypeScript, Python, Go, Node.js)
+- Cloud infrastructure (GCP, Vercel, Railway, Supabase, DigitalOcean)
+- Healthcare IT & HIPAA-compliant systems
+- API design, microservices & monorepo architecture
 - Digital marketing & growth strategies
-- App development & custom API design
-- WordPress & CMS development
-- MCP configuration and IoT systems
-- Structural engineering principles applied to software and business
 - Integrative & holistic medicine consultancy
 
-## Projects & Ventures
+## Active Projects
 
-- **Empathy First Media** – A digital agency and AI studio building human‑centric solutions.
-- **AI/ML SaaS** – In‑development products leveraging large language models and machine learning to streamline workflows.
-- **Consulting** – Partnerships with organizations seeking to adopt AI/ML or improve digital infrastructure.
+- **[ai-agency-platform](https://github.com/dlynch90/ai-agency-platform)** — Production-ready AI application framework (Go, GraphQL, TurboRepo)
+- **[ai-agency-pro-monorepo](https://github.com/dlynch90/ai-agency-pro-monorepo)** — Multi-schema Prisma 7 monorepo with MCP, Docker & Ollama
+- **[ai-agency-pro](https://github.com/dlynch90/ai-agency-pro)** — AI Agency Pro: build, deploy, and manage AI-powered applications
+- **[pathways-to-heal](https://github.com/dlynch90/pathways-to-heal)** — Healthcare appointment scheduling & patient management (Brio Medical)
+- **[void_repo](https://github.com/dlynch90/void_repo)** — AI-driven agency platform for digital marketing & ML consulting
+- **[infrastructure-setup](https://github.com/dlynch90/infrastructure-setup)** — Enterprise infra with 1Password SSH, Cloudflare Access & CI/CD
+- **[dotfiles](https://github.com/dlynch90/dotfiles)** — Chezmoi-managed dotfiles with 1Password integration
+
+## Mission & Vision
+
+Bridging technology and humanity by creating AI systems that empower people, respect privacy, and foster sustainable growth — applying cutting-edge machine learning to solve real-world problems in healthcare, business operations, and beyond.
 
 ## Get in Touch
 
-## Mission & Vision
-Daniel Lynch is dedicated to bridging technology and humanity by creating AI systems that empower people, respect privacy, and foster sustainable growth. The mission is to apply cutting-edge machine learning to solve real-world problems in healthcare, business operations, and beyond.
-
-## Learn & Share
-- 📚 Continual learner exploring the latest in LLM research, MLOps best practices, and neurotechnology.
-- 🧠 Advocating for ethical AI and open knowledge, sharing insights through workshops and consulting.
-- 🤝 Open to collaborations on innovative projects that align with a vision of human-centric technology.
-- 🌐 [Empathy First Media](https://empathyfirstmedia.com/)
+- 🌐 [empathyfirstmedia.com](https://empathyfirstmedia.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dlynch90/)
+- 🐦 [X / Twitter](https://twitter.com/ambitious_lynch)
+- 📸 [Instagram](https://www.instagram.com/ambitiouslynch/)
 - ✉️ Contact via the website for professional inquiries
-
----
