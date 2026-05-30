@@ -16,15 +16,6 @@ Engineer. Entrepreneur. Free Spirit. I architect AI-powered SaaS products, advis
 - Digital marketing & growth strategies
 - Integrative & holistic medicine consultancy
 
-## Active Projects
-
-- **[ai-agency-platform](https://github.com/dlynch90/ai-agency-platform)** — Production-ready AI application framework (Go, GraphQL, TurboRepo)
-- **[ai-agency-pro-monorepo](https://github.com/dlynch90/ai-agency-pro-monorepo)** — Multi-schema Prisma 7 monorepo with MCP, Docker & Ollama
-- **[ai-agency-pro](https://github.com/dlynch90/ai-agency-pro)** — AI Agency Pro: build, deploy, and manage AI-powered applications
-- **[pathways-to-heal](https://github.com/dlynch90/pathways-to-heal)** — Healthcare appointment scheduling & patient management (Brio Medical)
-- **[void_repo](https://github.com/dlynch90/void_repo)** — AI-driven agency platform for digital marketing & ML consulting
-- **[infrastructure-setup](https://github.com/dlynch90/infrastructure-setup)** — Enterprise infra with 1Password SSH, Cloudflare Access & CI/CD
-- **[dotfiles](https://github.com/dlynch90/dotfiles)** — Chezmoi-managed dotfiles with 1Password integration
 
 ## Mission & Vision
 
